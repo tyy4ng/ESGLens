@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Data files
+*.csv
+*.pt
+*.pkl
+
+# PDF reports
+esg_report/
+
+# Generated pipeline outputs
+esg_summary/
+
+# Ticker lists (may contain licensed data)
+esg_tickers/
+
+# OS
+.DS_Store
